@@ -160,6 +160,11 @@
 		<version>0.3</version>
 	</dependency>
 	<!-- dubbo 需要的jar end -->
+	<dependency>
+		<groupId>com.cc.dubbo</groupId>
+		<artifactId>dubbo-api</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</dependency>
   </dependencies>
   
   <build>
