@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [16/Jun/2017:10:30:08 +0800] "GET /dubbo-consumer/demo?name=chenchao HTTP/1.1" 200 14 http-bio-8081-exec-1 169
+0:0:0:0:0:0:0:1 - - [16/Jun/2017:10:30:08 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-2 4
